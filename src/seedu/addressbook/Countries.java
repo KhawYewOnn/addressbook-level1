@@ -1,0 +1,8 @@
+package seedu.addressbook;
+
+/**
+ * this java class doens't do anything. I created this java class
+ * to familiarise myself with git properties. 
+ */
+public class Countries {
+}
