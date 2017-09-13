@@ -1168,4 +1168,6 @@ public class AddressBook {
 
     //Another another line of code. This is only for feature1.
     //Added a second random line of nothing to master. Practicing branching.
+
+    //Add another line of junk to the file to test git branching. 
 }
