@@ -6,3 +6,6 @@ package seedu.addressbook;
  */
 public class Summary {
 }
+//New junk comment after creating pull request and making some dummy comment.
+//The aboveline, and this line, is created to simulate editing the file after receiving
+//comment from other developer.
